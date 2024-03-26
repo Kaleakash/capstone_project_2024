@@ -1,0 +1,5 @@
+# Created at 2024-03-26T06:59:45.625
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Desktop\Caltech Java Aug Batch\caltech_Java_Aug_2023_batch\Capstone Project\backend\Eureka-Server\Eureka-Server\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
